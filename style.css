@@ -1,0 +1,22 @@
+body
+{
+	background-image: url(https://media.tenor.com/images/3322423e97a8af4fc6964f11489f4a46/tenor.gif);
+	background-size: 100%;
+}
+
+p
+{
+	color: green;
+	font-family: arial;
+	font-size: 11pt;
+}
+
+h1
+{
+	color: red;
+}
+
+h2
+{
+	color: blue;
+}
